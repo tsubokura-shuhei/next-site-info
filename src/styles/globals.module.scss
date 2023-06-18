@@ -1,10 +1,11 @@
 .navbar {
-  // position: fixed;
+  position: fixed;
   margin: 0px;
   padding: 0px;
   display: flex;
   justify-content: space-between;
   width: 100%;
+  z-index: 1;
   h1,
   p,
   ul,
